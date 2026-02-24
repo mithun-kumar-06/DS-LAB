@@ -15,3 +15,4 @@ disp ( phase )
 z= ifft (y)
 disp ( 'The resultant IFFT sequence is : ' )
 disp(y)
+
